@@ -2,6 +2,6 @@ This repository aims to share data from the article titled "Investigating Micros
 
 Here is the folder structure for this repository (under development):
 
-- 01-Camino_waveforms: Diffusion gradient waveforms used in the Monte-Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/)
+- `01-Camino_waveforms`: Diffusion gradient waveforms used in the Monte-Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/)
 
 
