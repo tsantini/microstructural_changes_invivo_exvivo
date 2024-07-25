@@ -1,0 +1,85 @@
+﻿b-tensor experimental results,,,,,,,,
+Total kurtosis (Ktotal),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,1.50923,0.264951,1.56793,0.162027,0.894074,0.253547,0.873244,0.190969
+Subj2,1.43661,0.178109,1.51618,0.152125,0.874905,0.254065,0.927586,0.147509
+,,,,,,,,
+Anisotropic kurtosis (Kani),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.881497,0.273976,1.32901,0.258078,0.438107,0.162989,0.611302,0.172386
+Subj2,0.917764,0.206845,1.33336,0.216977,0.447549,0.16686,0.689743,0.148946
+,,,,,,,,
+Isotropic kurtosis (Kiso),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.62773,0.343654,0.238917,0.247151,0.455967,0.279784,0.261942,0.170626
+Subj2,0.518847,0.237682,0.182818,0.208835,0.427356,0.248286,0.237844,0.177452
+,,,,,,,,
+Microscopic Fractional Anisotropy (µFA),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.782834,0.0823543,0.882268,0.0450159,0.610597,0.130033,0.693766,0.121514
+Subj2,0.799306,0.0546237,0.884715,0.0367031,0.610029,0.151289,0.733649,0.0575579
+,,,,,,,,
+Fractional Anisotropy  (FA),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.568195,0.162307,0.589304,0.157679,0.235374,0.109076,0.214306,0.0850974
+Subj2,0.557517,0.158477,0.603424,0.172036,0.219587,0.100018,0.236121,0.0892363
+,,,,,,,,
+Mean diffusivity (MD),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.268071,0.031918,0.183627,0.023656,0.245768,0.048614,0.183855,0.031636
+Subj2,0.274978,0.020876,0.188889,0.020282,0.239303,0.058359,0.186885,0.016427
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

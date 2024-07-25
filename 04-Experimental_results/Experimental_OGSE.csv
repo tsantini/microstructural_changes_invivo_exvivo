@@ -1,0 +1,85 @@
+﻿OGSE experimental results,,,,,,,,
+Total kurtosis (Ktotal) in the White Matter,,,,,,,,
+Frequency,Subj1 ex vivo,,Subj1 in vivo,,Subj2 ex vivo,,Subj2 in vivo,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+0,1.6076,0.242586,1.38979,0.251576,1.46067,0.308048,1.34614,0.224099
+17,1.43779,0.189196,1.34385,0.252232,1.30446,0.270689,1.29009,0.228905
+54,1.20993,0.148444,1.22385,0.225738,1.12652,0.175266,1.19214,0.186124
+70,1.16323,0.131584,1.116,0.307392,1.08327,0.170241,1.14181,0.353651
+,,,,,,,,
+Total kurtosis (Ktotal) in the Gray Matter,,,,,,,,
+Frequency,Subj1 ex vivo,,Subj1 in vivo,,Subj2 ex vivo,,Subj2 in vivo,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+0,0.747998,0.282096,0.667709,0.207745,0.737932,0.294307,0.766367,0.26851
+17,0.697073,0.242406,0.622279,0.212661,0.67433,0.253058,0.69348,0.268156
+54,0.707304,0.164022,0.500774,0.219498,0.687368,0.18356,0.601786,0.195624
+70,0.72649,0.134111,0.472005,0.233769,0.701521,0.172382,0.612166,0.198066
+,,,,,,,,
+Mean diffusivity (MD)/D0 in the White Matter,,,,,,,,
+Frequency,Subj1 ex vivo,,Subj1 in vivo,,Subj2 ex vivo,,Subj2 in vivo,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+0,0.150585,0.020728,0.243646,0.036773,0.138367,0.020874,0.253687,0.036649
+17,0.162892,0.019702,0.252751,0.034664,0.148565,0.020998,0.261525,0.036967
+54,0.193033,0.020241,0.261742,0.035798,0.174463,0.02163,0.287223,0.033652
+70,0.202988,0.021132,0.279808,0.044733,0.184107,0.022828,0.278162,0.052298
+,,,,,,,,
+Mean diffusivity (MD)/D0 in the Gray Matter,,,,,,,,
+Frequency,Subj1 ex vivo,,Subj1 in vivo,,Subj2 ex vivo,,Subj2 in vivo,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+0,0.15889,0.016892,0.23468,0.022007,0.14491,0.014931,0.242236,0.033164
+17,0.173336,0.015997,0.24025,0.022992,0.157235,0.015254,0.24848,0.036512
+54,0.206627,0.015397,0.249446,0.023817,0.185677,0.014438,0.278726,0.033975
+70,0.217712,0.015814,0.257781,0.020622,0.195341,0.014781,0.286969,0.034856
+,,,,,,,,
+Pixel-wise Delta Total Kurtosis (ΔKtotal),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,-0.27379,0.279484,-0.44437,0.187085,-0.195704,0.220757,-0.021508,0.2081035
+Subj2,-0.20433,0.288875,-0.3774,0.2391445,-0.154201,0.233288,-0.036411,0.2333445
+,,,,,,,,
+Pixel-wise Delta Mean diffusivity (ΔMD),,,,,,,,
+,in vivo White matter,,ex vivo White matter,,in vivo Gray matter,,ex vivo Gray matter,
+,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation,Mean,Standard deviation
+Subj1,0.036162,0.040753,0.052403,0.02093,0.023101,0.021315,0.058822,0.016353
+Subj2,0.024475,0.044474,0.04574,0.021851,0.044733,0.03401,0.050431,0.014856
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
