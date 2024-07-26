@@ -2,8 +2,8 @@ This repository aims to share data from the article titled "Investigating micros
 
 Here is the folder structure for this repository:
 
-- `01-Camino_waveforms`: Diffusion gradient waveforms used in the Monte Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/).
-- `02-Camino_geometry`: Geometry files based on (Budde et al., PNAS 2010) used in the Monte Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/). In the file name, Rad is the radius of the geometry (in micrometers), Amp is the amplitude of the beading, and Volfract is the intracellular volume fraction.
-- `03-Camino_results`: Results of the fitting of the Monte Carlo simulation results into the OGSE- and b-tensor-encoding metrics using MatMRI (https://gitlab.com/cfmm/matlab/matmri).
+- `01-Diffusion_gradient_waveforms`: Diffusion gradient waveforms used in the Monte Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/).
+- `02-Geometry`: Geometry files based on (Budde et al., PNAS 2010) used in the Monte Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/). In the file name, Rad is the radius of the geometry (in micrometers), Amp is the amplitude of the beading, and Volfract is the intracellular volume fraction.
+- `03-Simulation_results`: Results of the fitting of the Monte Carlo simulation results into the OGSE- and b-tensor-encoding metrics using MatMRI (https://gitlab.com/cfmm/matlab/matmri).
 - `04-Experimental_results`: Experimental results of MRI data acquired from two marmosets in vivo under anesthesia and perfused/fixed ex vivo tissue.
 - `Dockerfile`: Recipe for the Camino environment installation, also available at `docker pull tsantini/camino` and `https://hub.docker.com/r/tsantini/camino`
