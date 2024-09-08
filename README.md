@@ -1,5 +1,7 @@
 This repository aims to share data from the article titled "Investigating microstructural changes between in vivo and perfused ex vivo marmoset brains using oscillating gradient and b-tensor encoded diffusion MRI at 9.4T" by Tales Santini, Alyson Shim, Jr-Jiun Liou, Naila Rahman, Gabriel Varela-Mattatall, Matthew D. Budde, Wataru Inoue, Stefan Everling, and Corey A. Baron, currently under review at MRM journal.
 
+If you have any questions or requests, feel free to create a ticket at the "Issues" tab!
+
 Here is the folder structure for this repository:
 
 - `01-Diffusion_gradient_waveforms`: OGSE and b-tensor encoding diffusion gradient waveforms used in the Monte Carlo simulations performed with the command `datasynth` from the Camino package (http://camino.cs.ucl.ac.uk/).
