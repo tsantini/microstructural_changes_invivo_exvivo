@@ -1,4 +1,4 @@
-This repository aims to share data from the article titled "Investigating microstructural changes between in vivo and perfused ex vivo marmoset brains using oscillating gradient and b-tensor encoded diffusion MRI at 9.4T" by Tales Santini, Alyson Shim, Jr-Jiun Liou, Naila Rahman, Gabriel Varela-Mattatall, Matthew D. Budde, Wataru Inoue, Stefan Everling, and Corey A. Baron, currently under review at MRM journal.
+This repository aims to share data from the article titled ["Investigating microstructural changes between in vivo and perfused ex vivo marmoset brains using oscillating gradient and b-tensor encoded diffusion MRI at 9.4T"](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30298) by Tales Santini, Alyson Shim, Jr-Jiun Liou, Naila Rahman, Gabriel Varela-Mattatall, Matthew D. Budde, Wataru Inoue, Stefan Everling, and Corey A. Baron, published at MRM journal in 2024.
 
 If you have any questions or requests, feel free to create a ticket at the "Issues" tab!
 
